@@ -1,0 +1,12 @@
+.titulo{
+	margin-top:50px
+	margin-bottom:50px;
+	padding:50px;
+	text-align: center;
+}
+.circulo{
+	border-radius: 50%;
+}
+.borde{
+	border-radius: 10%;
+}
